@@ -1,0 +1,118 @@
+{
+    "buffs": [
+        {
+            "trait_name": "Vegetarian",
+            "ingrediant": "meat",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegetarian",
+            "ingrediant": "fish",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegetarian",
+            "ingrediant": "seafood",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegetarian",
+            "ingrediant": "insects",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegetarian",
+            "ingrediant": "poultry",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegan",
+            "ingrediant": "meat",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegan",
+            "ingrediant": "fish",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegan",
+            "ingrediant": "milk",
+            "value": -1,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegan",
+            "ingrediant": "egg",
+            "value": -1,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegan",
+            "ingrediant": "honey",
+            "value": -1,
+            "notes": ""
+        },
+        {
+            "trait_name": "Fructose malabsorption",
+            "ingrediant": "high-sugar",
+            "value": -3,
+            "notes": ""
+        },
+        {
+            "trait_name": "Lactose intolerance",
+            "ingrediant": "lactose",
+            "value": -3,
+            "notes": ""
+        },
+        {
+            "trait_name": "Catholic Lent",
+            "ingrediant": "meat",
+            "value": -1,
+            "notes": ""
+        },
+        {
+            "trait_name": "Catholic Lent",
+            "ingrediant": "alcohol",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Catholic Lent",
+            "ingrediant": "high-sugar",
+            "value": -3,
+            "notes": ""
+        },
+        {
+            "trait_name": "Nuts allergy",
+            "ingrediant": "nuts",
+            "value": -4,
+            "notes": ""
+        },
+        {
+            "trait_name": "Egg allergy",
+            "ingrediant": "egg",
+            "value": -4,
+            "notes": ""
+        },
+        {
+            "trait_name": "Seafood allergy",
+            "ingrediant": "seafood",
+            "value": -4,
+            "notes": ""
+        },
+        {
+            "trait_name": "Halal",
+            "ingrediant": "alcohol",
+            "value": -3,
+            "notes": "psyche, religion faith"
+        }
+    ]
+}

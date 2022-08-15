@@ -1,0 +1,172 @@
+{
+    "characterName": [
+        {
+            "_nameCharacter": "Tim"
+        },
+        {
+            "_nameCharacter": "Simone"
+        },
+        {
+            "_nameCharacter": "Matthias"
+        },
+        {
+            "_nameCharacter": "Sophia"
+        },
+        {
+            "_nameCharacter": "Daphne"
+        }
+    ],
+    "traits": [
+        {
+            "trait_name": "Vegetarian",
+            "description": "Vegetarianism is the practice of abstaining from the consumption of meat (red meat, poultry, seafood, insects, and the flesh of any other animal).",
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegan",
+            "description": "Veganism is the practice of abstaining from the use of animal products, particularly in diet, and an associated philosophy that rejects the commodity status of animals.",
+            "notes": ""
+        },
+        {
+            "trait_name": "Fructose malabsorption",
+            "description": "Digestive disorder in which absorption of fructose is impaired by deficient fructose carriers in the small intestine's enterocytes. This results in an increased concentration of fructose in the entire intestine. Intolerance to fructose was first identified and reported in 1956.",
+            "notes": ""
+        },
+        {
+            "trait_name": "Lactose intolerance",
+            "description": "Lactose intolerance is a common condition caused by a decreased ability to digest lactose, a sugar found in dairy products. Those affected vary in the amount of lactose they can tolerate before symptoms develop.",
+            "notes": "Variation (+1, +2) possible"
+        },
+        {
+            "trait_name": "Catholic Lent",
+            "description": "Lent (Latin: Quadragesima, 'Fortieth') is a solemn religious observance in the Christian liturgical calendar commemorating the 40 days Jesus spent fasting in the desert and enduring temptation by Satan. For you this means you don't eat meat.",
+            "notes": ""
+        },
+        {
+            "trait_name": "Nuts Allergy",
+            "description": "Can be deadly. The extent of the allergic reaction can vary greatly between individuals. Food allergies manifest themselves in reactions of the mucous membranes, for example in the form of swelling of the mucous membranes in the entire mouth, nose (allergic rhinitis) and pharynx and swelling of the tongue. Gastrointestinal symptoms include: B. Nausea, vomiting, flatulence and diarrhea. However, food allergies can also lead to reactions in the airways with constriction of the bronchi (allergic asthma) and the skin (atopic eczema, itching and hives). In extreme cases, life-threatening anaphylactic shock can occur.",
+            "notes": ""
+        },
+        {
+            "trait_name": "Halal",
+            "description": "Is mental stress. \"Halal\" is an Arabic word and can be translated as \"allowed\" and \"permissible\". It denotes all things and actions that are permissible under Islamic law.",
+            "notes": ""
+        }
+    ],
+    "buffs": [
+        {
+            "trait_name": "Vegetarian",
+            "ingrediant": "meat",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegetarian",
+            "ingrediant": "fish",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegetarian",
+            "ingrediant": "seafood",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegetarian",
+            "ingrediant": "insects",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegetarian",
+            "ingrediant": "poultry",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegan",
+            "ingrediant": "meat",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegan",
+            "ingrediant": "fish",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegan",
+            "ingrediant": "milk",
+            "value": -1,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegan",
+            "ingrediant": "egg",
+            "value": -1,
+            "notes": ""
+        },
+        {
+            "trait_name": "Vegan",
+            "ingrediant": "honey",
+            "value": -1,
+            "notes": ""
+        },
+        {
+            "trait_name": "Fructose malabsorption",
+            "ingrediant": "high-sugar",
+            "value": -3,
+            "notes": ""
+        },
+        {
+            "trait_name": "Lactose intolerance",
+            "ingrediant": "lactose",
+            "value": -3,
+            "notes": ""
+        },
+        {
+            "trait_name": "Catholic Lent",
+            "ingrediant": "meat",
+            "value": -1,
+            "notes": ""
+        },
+        {
+            "trait_name": "Catholic Lent",
+            "ingrediant": "alcohol",
+            "value": -2,
+            "notes": ""
+        },
+        {
+            "trait_name": "Catholic Lent",
+            "ingrediant": "high-sugar",
+            "value": -3,
+            "notes": ""
+        },
+        {
+            "trait_name": "Nuts Allergy",
+            "ingrediant": "nuts",
+            "value": -4,
+            "notes": ""
+        },
+        {
+            "trait_name": "Egg allergy",
+            "ingrediant": "egg",
+            "value": -4,
+            "notes": ""
+        },
+        {
+            "trait_name": "Seafood allergy",
+            "ingrediant": "seafood",
+            "value": -4,
+            "notes": ""
+        },
+        {
+            "trait_name": "Halal",
+            "ingrediant": "alcohol",
+            "value": -3,
+            "notes": "psyche, religion faith"
+        }
+    ]
+}

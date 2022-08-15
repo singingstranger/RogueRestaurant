@@ -1,0 +1,33 @@
+{
+    "characterName": [
+        {
+            "_nameCharacter": "Daniel"
+        },
+        {
+            "_nameCharacter": "Bernd"
+        },
+        {
+            "_nameCharacter": "Hannah"
+        }
+    ],
+    "characterEatingStyle": [
+        {
+            "_style": "Vegetarian",
+            "_meat": -2,
+            "_eggs": 0,
+            "_vegetable": 2
+        },
+        {
+            "_style": "Vegan",
+            "_meat": -2,
+            "_eggs": -2,
+            "_vegetable": 3
+        },
+        {
+            "_style": "Keto",
+            "_meat": 2,
+            "_eggs": 2,
+            "_vegetable": -1
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "menuItems": [
+        {
+            "name": "Bread",
+            "menu_name": "Italian",
+            "type": "starter",
+            "ingredient_list": "gluten"           
+        },
+        {
+            "name": "Spaghetti",
+            "menu_name": "Italian",
+            "type": "main",
+            "ingredient_list": "lactose, gluten, meat"
+        },
+        {
+            "name": "Fruit Yoghurt",
+            "menu_name": "Italian",
+            "type": "dessert",
+            "ingredient_list": "high-sugar, dairy"
+        }
+    ]
+}

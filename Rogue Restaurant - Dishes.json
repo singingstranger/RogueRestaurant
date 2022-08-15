@@ -1,0 +1,116 @@
+{
+    "menuItems": [
+        {
+            "dish_name": "Italian-style antipasti plate",
+            "menu_name": "dummy",
+            "type": "starter",
+            "ingrediant_list": "milk, meat, gluten, nuts, mozzarella, artichokes, peppers, prosciutto, olives, tomatoes, parmesan, basil, garlic, walnut, ciabatta",
+            "description": "Two balls of buffalo mozzarella, artichokes in olive oil, balsamic sundried peppers, slices of prosciutto, three tablespoons of mixed olives, a handful of cherry tomatoes, parmesan, handpicked leafs of fresh basil, garlic and one loaf of walnut ciabatta. "
+        },
+        {
+            "dish_name": "Tamoto Soup",
+            "menu_name": "dummy",
+            "type": "starter",
+            "ingrediant_list": "poultry, milk, lactose, onion, carrot, tomato, black pepper, sugar",
+            "description": "With yellow onion, organic carrots from our garden, fresh tomatoes, heavy cream, freshly ground black pepper, brown sugar. Highest quality chicken broth basis."
+        },
+        {
+            "dish_name": "Mediterranean Melon Salad",
+            "menu_name": "dummy",
+            "type": "starter",
+            "ingrediant_list": "fruit, milk, lactose, feta, cucumber, watermelon, mint, basil",
+            "description": "Organic watermelon with sweet english cucumber, creamy feta cheese with mint and basil leaves from our garden."
+        },
+        {
+            "dish_name": "Classic Crab Salad",
+            "menu_name": "dummy",
+            "type": "starter",
+            "ingrediant_list": "seafood, egg, red pepper, onion, shallot, celery, red pepper, dill, black pepper",
+            "description": "Meat from the imitation crab, minced shallot, housemade mayonnaise, minced celery, organic red pepper, fresh dill from our garden and freshly ground black pepper."
+        },
+        {
+            "dish_name": "Pani Puris",
+            "menu_name": "dummy",
+            "type": "starter",
+            "ingrediant_list": "gluten, bread, chickpeas, potato, red onion, coriander, min, cumin, chilli, ginger",
+            "description": "Indian street food with crisp rounds of bread filled with chickpeas, peeled potatoes and red onoins, deep-fried in rapeseed oil, drizzled with coriander, mint, cumin, chilli flakes and ginger."
+        },
+        {
+            "dish_name": "Spaghetti Carbonara",
+            "menu_name": "dummy",
+            "type": "main",
+            "ingrediant_list": "gluten, meat, cream, milk, lactose, egg",
+            "description": "Homemade full-grain spaghetti with the finest crunchy bacon. For our classic italian carbonara we use the finest cream and organic eggs from local cultivation only."
+        },
+        {
+            "dish_name": "Ramen",
+            "menu_name": "dummy",
+            "type": "main",
+            "ingrediant_list": "Ramen-noodles, dashi, chili, water, shrimps, egg, broccoli, pac choi, shitake, spring onions, carrots, ginger, garlic, soy sauce, sesame, seafood, gluten",
+            "description": "Classic Ramen Noodles"
+        },
+        {
+            "dish_name": "Pizza",
+            "menu_name": "dummy",
+            "type": "main",
+            "ingrediant_list": "wheat flour, gluten, water, vegetable oil, salt, tomatoes. sugar, spices, mozzarella, ham, arugula, meat",
+            "description": ""
+        },
+        {
+            "dish_name": "Sushi",
+            "menu_name": "dummy",
+            "type": "main",
+            "ingrediant_list": "rice, avocados, cucumber, sesame, surimi, seafood, salmon, shrimps, tuna, wasabi, nori, soy sauce, lettuce",
+            "description": ""
+        },
+        {
+            "dish_name": "Burger & Fries",
+            "menu_name": "dummy",
+            "type": "main",
+            "ingrediant_list": "Green spelled, sunflower seeds, oatmeal, garlic, spices, water, onion, flour, gluten, vegetable oil",
+            "description": ""
+        },
+        {
+            "dish_name": "Oriental stuffed tomatoes",
+            "menu_name": "dummy",
+            "type": "main",
+            "ingrediant_list": "couscous, raisins, pine nuts, nuts, coriander seeds, mint, tomatoes, spices, garlic, olive oil",
+            "description": ""
+        },
+        {
+            "dish_name": "Strawberry-Raspberry Pie",
+            "menu_name": "dummy",
+            "type": "dessert",
+            "ingrediant_list": "fruit, high-suger, egg, milk, lactose, gluten, strawberry, raspberry",
+            "description": "Handpicked strawberries and raspberries from our garden with fresh cream on extra-crunchy housemade butter dough. A summer favourite!"
+        },
+        {
+            "dish_name": "Gooseberry trifle",
+            "menu_name": "dummy",
+            "type": "dessert",
+            "ingrediant_list": "Gooseberries, cream, coconut, egg, vanilla flavor, milk, cookies, gluten, sherry, high-sugar",
+            "description": ""
+        },
+        {
+            "dish_name": "Muffins",
+            "menu_name": "dummy",
+            "type": "dessert",
+            "ingrediant_list": "Egg, high-sugar, vanilla, cream cheese, mascarpone, flour, gluten, baking powder, fat, raspberries",
+            "description": ""
+        },
+        {
+            "dish_name": "Banana vanilla pudding",
+            "menu_name": "dummy",
+            "type": "dessert",
+            "ingrediant_list": "Milk, banana, high-sugar, cornstarch, vanilla bean",
+            "description": ""
+        },
+        {
+            "dish_name": "Avocado coconut icecream",
+            "menu_name": "dummy",
+            "type": "dessert",
+            "ingrediant_list": "Avocado, coconut, rice syrup, lime juice, coconut water",
+            "description": ""
+        }
+    ]
+}
